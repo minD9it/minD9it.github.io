@@ -6,7 +6,7 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - CrossWord_ActionOnGoogle
+  - minD9it/CrossWord_ActionOnGoogle
   # - alshedivat/al-folio
   # - jekyll/jekyll
   # - twbs/bootstrap
