@@ -173,13 +173,13 @@ cv:
     #     icon: fa-solid fa-envelope
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Development of Technology for Predicting the Operational Lifespan and Measuring the Remaining Charge of Primary Lithium Batteries for Industrial IoT Devices
+        summary: Predict primary batteries life based on maching learning
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Data analyze to extract batteries characteristics
+          - Accuracy 95%
+        start_date: 2021-04
+        end_date: 2023-12
 
     # References:
     #   - name: Professor John Doe
