@@ -1,7 +1,7 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Predict the remaining capacity of Lithium Thionyl Primary Batteries
+description: Predict the remaining capacity of primary batteries with diverse charateristics of batteries
 img: assets/img/12.jpg
 importance: 1
 category: work
