@@ -13,7 +13,7 @@ I am a researcher who worked at Korea Electronics Technical Institute. My resear
 ### Publications
 **Primary Lithium Battery SOC Prediction System for Estimating Life-time of Industrial IoT Devices**  
 **Minji Kang**, Seongseop Kim, Seungwoo Lee  
-Autumn Annual Conference of The institute of Electronics and Information Engineers, 2023  
+*Autumn Annual Conference of The institute of Electronics and Information Engineers, 2023*  
 <details>
   <summary>Abstract</summary>
   <p>
@@ -25,13 +25,13 @@ Autumn Annual Conference of The institute of Electronics and Information Enginee
 
 **SoC Estimation of Lithium Thionyl Chloride Battery Using Voltage Recovery Time**  
 **Minji Kang**, Seongseop Kim, Seungwoo Lee  
-The 11th International Conference on Electronics, Electrical Engineering, Computer Science 2022  
+*The 11th International Conference on Electronics, Electrical Engineering, Computer Science 2022*  
 
 
 
 **Analysis of EDLC-based Primary Battery Current Consumption Characteristics Considering Operation Patterns in IoT Devices**  
 **Minji Kang**, Seongseop Kim, Seungwoo Lee  
-The 10th International Conference on Electronics, Electrical Engineering, Computer Science 2022  
+*The 10th International Conference on Electronics, Electrical Engineering, Computer Science 2022*  
 <details>
   <summary>Abstract</summary>
   <p>
@@ -43,7 +43,7 @@ The 10th International Conference on Electronics, Electrical Engineering, Comput
 
 **Battery Lifetime Estimation System for IoT Devices using Voltage Measurement**  
 Seongseop Kim, **Minji Kang**, Youngmin Kwon, Seungwoo Lee  
-Institute of Embedded Engineering of Korea 2021  
+*Institute of Embedded Engineering of Korea 2021*  
 <details>
   <summary>Abstract</summary>
   <p>
@@ -55,10 +55,10 @@ Institute of Embedded Engineering of Korea 2021
 
 **End-to-End Joint Time–Space Synchronization of GPS and Video for Football Game Analysis**   
 Changjo Kim, **Minji Kang**, Geonhee Jo, Miru Hong, Jinsung Yoon, and Sang-Ki Ko   
-Preprint  
+*Preprint*  
 <details>
   <summary>Abstract</summary>
   <p>
-    Fusing measurements from heterogeneous sensors — here a wearable GNSS receiver (∼10 Hz) and a stadium video camera (∼25 fps) tracking the same set of football players — is bottlenecked by three preprocessing tasks that the sensor- fusion literature usually treats independently: (i) recovering the time offset between the two streams, (ii) calibrating the residual transform that maps the video sensor’s image-plane detections onto the world (pitch) frame, and (iii) estimating the per-device GPS positional bias caused by satellite geometry, atmospheric delay, and stadium multipath [1]. Prior work in football analytics treats (i) as a brute-force scan over candidate offsets (Hungarian linear assignment, movement-vector cosine similarity, or quartic kernel density estimation), leaves (ii) to a separate one-shot manual homography from four pitch keypoints, and either ignores (iii) or estimates it post-hoc per player. This costs tens of minutes of compute per match and never closes the loop between time alignment, sensor calibration, and GPS-side error. We recast the three preprocessing stages as a single end- to-end differentiable optimisation. Linear interpolation between adjacent precomputed GPS heat maps turns the time offset t into a learnable scalar; a differentiable affine warp of the video heat map captures the residual perspective error of the manual homography in a six-DoF matrix M ; and a differentiable shift of the GPS heat map by a low-degree polynomial b(g) absorbs the slowly varying team-wide GPS positional drift driven by satellite geometry, atmospheric delay and stadium multipath. All three are recovered jointly by stochastic gradient descent on the one-sided KDE residual that defines the strongest brute-force baseline. We additionally analyse the identifiability of (t, M, b) and show that the time–bias direction admits a first-order ambiguity that is broken by the bias regulariser. On eight professional football matches with manually verified ground-truth offsets, the proposed method beats every brute-force baseline (Hungarian, KDE, movement-vector field) on both mean absolute error and ±1-frame success rate at ∼3−9× lower wall time per match, outperforms 1-D cross-correlation baselines (motion-energy and phase-only correlation) by orders of magnitude, and additionally produces a calibrated residual perspective and a per-receiver GPS bias trajectory that no prior synchronization method provides — the very three quantities that downstream GPS–video sensor fusion pipelines [1] consume. We further validate the method on the publicly available SoccerNet GameState-2024 dataset under three regimes of increasing structural noise; on the regime that synthesizes the K-League acquisition profile, only the proposed method retains a usable success rate (80% within ±120 ms vs 1–21% for the centroid and brute-force baselines).
+    Fusing measurements from heterogeneous sensors — here a wearable GNSS receiver (∼10 Hz) and a stadium video camera (∼25 fps) tracking the same set of football players — is bottlenecked by three preprocessing tasks that the sensor- fusion literature usually treats independently: (i) recovering the time offset between the two streams, (ii) calibrating the residual transform that maps the video sensor’s image-plane detections onto the world (pitch) frame, and (iii) estimating the per-device GPS positional bias caused by satellite geometry, atmospheric delay, and stadium multipath. Prior work in football analytics treats (i) as a brute-force scan over candidate offsets (Hungarian linear assignment, movement-vector cosine similarity, or quartic kernel density estimation), leaves (ii) to a separate one-shot manual homography from four pitch keypoints, and either ignores (iii) or estimates it post-hoc per player. This costs tens of minutes of compute per match and never closes the loop between time alignment, sensor calibration, and GPS-side error. We recast the three preprocessing stages as a single end- to-end differentiable optimisation. Linear interpolation between adjacent precomputed GPS heat maps turns the time offset t into a learnable scalar; a differentiable affine warp of the video heat map captures the residual perspective error of the manual homography in a six-DoF matrix M ; and a differentiable shift of the GPS heat map by a low-degree polynomial b(g) absorbs the slowly varying team-wide GPS positional drift driven by satellite geometry, atmospheric delay and stadium multipath. All three are recovered jointly by stochastic gradient descent on the one-sided KDE residual that defines the strongest brute-force baseline. We additionally analyse the identifiability of (t, M, b) and show that the time–bias direction admits a first-order ambiguity that is broken by the bias regulariser. On eight professional football matches with manually verified ground-truth offsets, the proposed method beats every brute-force baseline (Hungarian, KDE, movement-vector field) on both mean absolute error and ±1-frame success rate at ∼3−9× lower wall time per match, outperforms 1-D cross-correlation baselines (motion-energy and phase-only correlation) by orders of magnitude, and additionally produces a calibrated residual perspective and a per-receiver GPS bias trajectory that no prior synchronization method provides — the very three quantities that downstream GPS–video sensor fusion pipelines consume. We further validate the method on the publicly available SoccerNet GameState-2024 dataset under three regimes of increasing structural noise; on the regime that synthesizes the K-League acquisition profile, only the proposed method retains a usable success rate (80% within ±120 ms vs 1–21% for the centroid and brute-force baselines).
   </p>
 </details>
