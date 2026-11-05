@@ -7,20 +7,20 @@ cv:
   summary: 
   #A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
 
-  social_networks:
-    - network: X
-      username: Minji Kang
-    - network: GitHub
-      username: minD9it
-    - network: LinkedIn
-      username: Minji Kang
+  # social_networks:
+  #   - network: X
+  #     username: Minji Kang
+  #   - network: GitHub
+  #     username: minD9it
+  #   - network: LinkedIn
+  #     username: Minji Kang
 
-  address:
-    street: 
-    city: Seoul
-    region: Songpa
-    postalCode: 
-    countryCode: KR
+  # address:
+  #   street: 
+  #   city: Seoul
+  #   region: Songpa
+  #   postalCode: 
+  #   countryCode: KR
 
   sections:
     Education:
