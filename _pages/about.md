@@ -22,6 +22,7 @@ Autumn Annual Conference of The institute of Electronics and Information Enginee
   </div>
 </details>
 
+<br>
 **SoC Estimation of Lithium Thionyl Chloride Battery Using Voltage Recovery Time**  
 **Minji Kang**, Seongseop Kim, Seungwoo Lee  
 The 11th International Conference on Electronics, Electrical Engineering, Computer Science 2022  
@@ -37,7 +38,8 @@ The 10th International Conference on Electronics, Electrical Engineering, Comput
     This paper presents an analysis of the discharge characteristics of EDLC-based primary battery in accordance with the operating characteristics of IoT devices. To extract discharge characteristics, we analyzed the difference between an EDLC-based primary battery and a primary battery not using EDLC after the experiment. The current consumption pattern of the IoT device used in the experiment has a structure that includes IDLE, Processing, and communication transmission/reception, and we comparatively analyzed the voltage change at this time. As a result, it shows that the voltage recovery time of the EDLC-based primary battery is up to 15 times greater than the regular one, but the average of the maximum voltage regulation is about 11 times less.
   </div>
 </details>
-    
+
+<br>
 **Battery Lifetime Estimation System for IoT Devices using Voltage Measurement**  
 Seongseop Kim, **Minji Kang**, Youngmin Kwon, Seungwoo Lee  
 Institute of Embedded Engineering of Korea 2021  
@@ -49,6 +51,7 @@ Institute of Embedded Engineering of Korea 2021
   </div>
 </details>
 
+<br>
 **End-to-End Joint Time–Space Synchronization of GPS and Video for Football Game Analysis**   
 Changjo Kim, **Minji Kang**, Geonhee Jo, Miru Hong, Jinsung Yoon, and Sang-Ki Ko   
 Preprint  
