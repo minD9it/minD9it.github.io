@@ -1,19 +1,21 @@
 ---
 layout: page
-title: Predict the remaining capacity of Lithium Thionyl Primary Batteries
-description: Development of Technology for Predicting the Operational Lifespan and Measuring the Remaining Charge of Primary Lithium Batteries for Industrial IoT Devices
+title: Development of Technology for Predicting the Operational Lifespan and Measuring the Remaining Charge of Primary Lithium Batteries for Industrial IoT Devices
+description: Predict the remaining capacity of primary batteries with diverse characteristics of batteries
 img: assets/img/Project1.png
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+1. Project Description   
+   a. Developed machine learning-based remaining capacity prediction technology for primary batteries   
+   b. Analyzed primary battery data
+   c. Trained a model for implementation in embedded systems
+2. Project Outcome
+   a. 
+3. Project Role
+   
     ---
     layout: page
     title: project
