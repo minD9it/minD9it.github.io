@@ -2,7 +2,7 @@
 layout: page
 title: Predict the remaining capacity of Lithium Thionyl Primary Batteries
 description: Development of Technology for Predicting the Operational Lifespan and Measuring the Remaining Charge of Primary Lithium Batteries for Industrial IoT Devices
-img: assets/img/12.jpg
+img: assets/img/Project1.png
 importance: 1
 category: work
 related_publications: true
