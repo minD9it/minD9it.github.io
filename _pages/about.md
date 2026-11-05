@@ -22,13 +22,13 @@ I am a researcher who worked at Korea Electronics Technical Institute. My resear
 </details>
 
 
-
+<br>
 **SoC Estimation of Lithium Thionyl Chloride Battery Using Voltage Recovery Time**  
 **Minji Kang**, Seongseop Kim, Seungwoo Lee  
 *The 11th International Conference on Electronics, Electrical Engineering, Computer Science 2022*  
 
 
-
+<br>
 **Analysis of EDLC-based Primary Battery Current Consumption Characteristics Considering Operation Patterns in IoT Devices**  
 **Minji Kang**, Seongseop Kim, Seungwoo Lee  
 *The 10th International Conference on Electronics, Electrical Engineering, Computer Science 2022*  
@@ -40,7 +40,7 @@ I am a researcher who worked at Korea Electronics Technical Institute. My resear
 </details>
 
 
-
+<br>
 **Battery Lifetime Estimation System for IoT Devices using Voltage Measurement**  
 Seongseop Kim, **Minji Kang**, Youngmin Kwon, Seungwoo Lee  
 *Institute of Embedded Engineering of Korea 2021*  
@@ -52,7 +52,7 @@ Seongseop Kim, **Minji Kang**, Youngmin Kwon, Seungwoo Lee
 </details>
 
 
-
+<br>
 **End-to-End Joint Time–Space Synchronization of GPS and Video for Football Game Analysis**   
 Changjo Kim, **Minji Kang**, Geonhee Jo, Miru Hong, Jinsung Yoon, and Sang-Ki Ko   
 *Preprint*  
