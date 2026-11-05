@@ -25,6 +25,7 @@ Autumn Annual Conference of The institute of Electronics and Information Enginee
 **SoC Estimation of Lithium Thionyl Chloride Battery Using Voltage Recovery Time**  
 **Minji Kang**, Seongseop Kim, Seungwoo Lee  
 The 11th International Conference on Electronics, Electrical Engineering, Computer Science 2022  
+<br>
 
 **Analysis of EDLC-based Primary Battery Current Consumption Characteristics Considering Operation Patterns in IoT Devices**  
 **Minji Kang**, Seongseop Kim, Seungwoo Lee  
