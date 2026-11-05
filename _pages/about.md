@@ -31,13 +31,12 @@ The 11th International Conference on Electronics, Electrical Engineering, Comput
 **Minji Kang**, Seongseop Kim, Seungwoo Lee  
 The 10th International Conference on Electronics, Electrical Engineering, Computer Science 2022  
 2022-07-21
-
 <details>
   <summary>Abstract</summary>
   <div markdown="1">
     This paper presents an analysis of the discharge characteristics of EDLC-based primary battery in accordance with the operating characteristics of IoT devices. To extract discharge characteristics, we analyzed the difference between an EDLC-based primary battery and a primary battery not using EDLC after the experiment. The current consumption pattern of the IoT device used in the experiment has a structure that includes IDLE, Processing, and communication transmission/reception, and we comparatively analyzed the voltage change at this time. As a result, it shows that the voltage recovery time of the EDLC-based primary battery is up to 15 times greater than the regular one, but the average of the maximum voltage regulation is about 11 times less.
   </div>
-  </details>
+</details>
     
 **Battery Lifetime Estimation System for IoT Devices using Voltage Measurement**  
 Seongseop Kim, **Minji Kang**, Youngmin Kwon, Seungwoo Lee  
