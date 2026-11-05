@@ -2,7 +2,9 @@
 layout: about
 title: about
 permalink: /
-subtitle: <!--<a href='#'>Affiliations</a>.-->  <!--Etc.-->
+subtitle: 
+minji.kang0408@gmail.com
+<!--<a href='#'>Affiliations</a>.-->  <!--Etc.-->
 
 profile:
   align: right
@@ -33,3 +35,5 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 -->
 
 I am a researcher who worked at Korea Electronics Technical Institute. My reserch interest lies in 'Reliable AI' and 'Robust AI'. I did My Bachelor of Sceience degree at Kangwon National University under Prof. [Sang-Ki Ko] (https://sites.google.com/site/sangkikotoc/, "Sang-Ki Ko").
+
+[GitHub] (https://github.com/minD9it, "GitHub") / [CV] ("CV") / [LinkedIn] (https://www.linkedin.com/in/minji-kang-175ba4337/, "LinkedIn")
