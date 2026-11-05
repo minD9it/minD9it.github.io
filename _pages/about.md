@@ -11,9 +11,9 @@ I am a researcher who worked at Korea Electronics Technical Institute. My resear
 
 
 ### Publications
-Primary Lithium Battery SOC Prediction System for Estimating Life-time of Industrial IoT Devices
-**Minji Kang**, Seongseop Kim, Seungwoo Lee
-Autumn Annual Conference of The institute of Electronics and Information Engineers, 2023
+Primary Lithium Battery SOC Prediction System for Estimating Life-time of Industrial IoT Devices  
+**Minji Kang**, Seongseop Kim, Seungwoo Lee  
+Autumn Annual Conference of The institute of Electronics and Information Engineers, 2023  
 2023-11-24
 <details>
   <summary>Abstract</summary>
