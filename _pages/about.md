@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 
-minji.kang0408@gmail.com
+subtitle: minji.kang0408@gmail.com
 <!--<a href='#'>Affiliations</a>.-->  <!--Etc.-->
 
 profile:
